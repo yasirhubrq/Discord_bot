@@ -24,4 +24,4 @@ async def loots(ctx):
 async def hello(ctx):
     await ctx.raect('heart')
 #bot token and runn
-bot.run('MTI5NTc0NzY2NzcyNDMzNzE1Mw.Gw8h0b.LLQsocsSOt2NvWsFdx0GhP2XgJspiW-r8AKxIE')
+bot.run('')
