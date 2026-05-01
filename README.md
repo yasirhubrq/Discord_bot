@@ -1,1 +1,1 @@
-this is the first discord bot created by mee..
+updated version of discord bot 
